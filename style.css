@@ -657,6 +657,43 @@ video#fourth{
        height: auto; 
        margin-bottom: 5rem;
 }
+.music{
+    color: white;
+    margin-left: 3rem;
+
+    
+ 
+}
+.music h1{
+    font-family: "M PLUS 1 Code", monospace;
+       margin-bottom: 1rem;
+       font-size: 20px;
+   
+}
+.music p{
+    margin-bottom: 1rem;
+    font-size: 10px;
+    font-weight: lighter;
+    color: #FEFBF6;
+    background-color: rgba(10, 10, 10, 0.8); 
+    font-family: "Poppins", sans-serif;
+    width: 85%;
+
+}
+.music button{
+    background-color: green;
+   border: none;
+   cursor: pointer;
+   width: 50%;
+   padding: 8px;
+   outline: none;
+   border-radius: 5px;
+   color: white;
+   font-family: "Poppins", sans-serif;
+
+   
+
+}
 
 
 }
