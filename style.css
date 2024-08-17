@@ -231,7 +231,14 @@ video#first{
 video#second{
     width: 90%;
    
-
+}
+#firstimggg{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+#thirdddd{
+    height: 39rem;
 }
 video#fourth{
     width: 90%;
@@ -692,7 +699,6 @@ video#fourth{
    font-family: "Poppins", sans-serif;
 
    
-
 }
 
 
